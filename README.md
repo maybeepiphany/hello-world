@@ -1,3 +1,4 @@
 # hello-world
-Test
-making a change
+Test\n
+making a change\n
+Change 2
